@@ -13,7 +13,7 @@ This is ussd test app build with express js a Node framework.
 ### Technologies used
 - GIT
 - GitHub
-
+- vS code
 
 ## Getting Started
 - Use npm install to install dependencies
@@ -43,10 +43,8 @@ Coming soon
 
 👤 ## Author
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
+- GitHub: [@mihndim2020](https://github.com/Mihndim)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mihndim/)
 
 ## 🤝 Contributing
 
@@ -60,12 +58,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- MDN
-- FreeCodeCamp
-- Microverse community
-- W3Schools
-- Myriad Connect
-
+- DIOOL Cameroon SAS
 
 ## 📝 License
 
