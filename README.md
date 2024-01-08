@@ -1,4 +1,4 @@
-# ussd-test-app
+# DIOOL MYRIAD USSD NODE SERVER
 This is ussd test app build with express js a Node framework. 
 
 ## Built With
