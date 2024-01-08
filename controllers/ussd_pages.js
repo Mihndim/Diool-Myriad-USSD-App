@@ -1,12 +1,8 @@
 require('dotenv').config();
 const axios = require("axios");
-//const Cache = require("node-cache");
 const refCache = require("../cache");
-//const Cache = require("../cache");
-//const refCache = new Cache({ stdTTL: 120, deleteOnExpire: true, checkperiod: 120 });
 
 module.exports.check_bill = async (req, res) => {
-   // let userMsisdn = req.headers["user-msisdn"]; // We will add a default value here for test in case the value is not provided by Myriad in the request headers.
 
     const userEntry = req.headers["user-entry"];
 
@@ -103,8 +99,8 @@ module.exports.check_bill = async (req, res) => {
             "page":{
                 "session_end":"true"
             },
-            "message": `${error.message}`
-            //"message": `We faced with an error while processing your request, please try again later`
+           // "message": `${error.message}`
+            "message": `We faced with an error while processing your request, please try again later`
         }) 
     }
 } 
