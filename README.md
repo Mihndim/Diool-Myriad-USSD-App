@@ -16,6 +16,8 @@ This is ussd test app build with express js a Node framework.
 - vS code
 
 ## Getting Started
+- git clone git@github.com:Mihndim/Diool-Myriad-USSD-App.git
+- cd Diool-Myriad-USSD-App
 - Use npm install to install dependencies
 - Run npm run dev to start the dev server
 
@@ -52,15 +54,8 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
-## Show your support
-
-Give a ⭐️ if you like this project!
-
 ## Acknowledgments
 
 - DIOOL Cameroon SAS
 
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
 
